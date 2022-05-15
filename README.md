@@ -1,5 +1,5 @@
 # Transformer2CNN
-基于图像块的CNN架构，骨干+特征融合，逼近Transformer
+基于图像块的CNN架构，骨干+特征融合+YOLO解耦头，To Be Transformer
 
 <details open>
 <summary>Info</summary> 
@@ -16,7 +16,7 @@
 
 
 <details open>
-<summary>BackBone</summary> 
+<summary>BackBone.py</summary> 
 
 ``` bash 
     基于图像块的特征提取
@@ -24,7 +24,7 @@
   
 </details>
 <details open>
-<summary>Neck</summary> 
+<summary>Neck.py</summary> 
 
 ``` bash 
   基于图像块、注意力的特征融合
@@ -32,7 +32,7 @@
 </details>
  
 <details open>
-<summary>Neck</summary> 
+<summary>Head.py</summary> 
 
 ``` bash 
   基于 类间-解耦头设计 的细分类做法。
