@@ -18,20 +18,21 @@
 <details open>
 <summary>BackBone</summary> 
 
+  基于图像块的特征提取
   
   
 </details>
 <details open>
 <summary>Neck</summary> 
 
-  
+  基于图像块、注意力的特征融合
   
 </details>
  
 <details open>
 <summary>Neck</summary> 
 
-  
+  基于 类间-解耦头设计 的细分类做法。
   
 </details>
   
@@ -39,5 +40,5 @@
 
 <details open>
 <summary>citation</summary> 
-- [1] 陈旭, 彭冬亮, 谷雨. 基于改进 YOLOV5s 的无人机图像实时目标检测[J]. 光电工程, 2022, 49(3): 210372.
+- [1] xx, xxx, xx. 基于改进 YOLOV5s 的无人机图像实时目标检测[J]. 光电工程, 2022, 49(3): 210372.
 </details>
