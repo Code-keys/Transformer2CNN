@@ -13,8 +13,7 @@
 ```
 </details>
 
-<details open>
-<summary>Detail</summary> 
+ 
 <details open>
 <summary>BackBone</summary> 
 
@@ -35,8 +34,7 @@
   基于 类间-解耦头设计 的细分类做法。
   
 </details>
-  
-</details>
+   
 
 <details open>
 <summary>citation</summary> 
